@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&family=Source+Sans+Pro&display=swap')
+
+* {
+     box-sizing: border-box; 
+}
+
+body{
+   margin:0;
+   
+}
+ 
+.navbar{
+   background-color: rgb(48, 212, 130);
+   padding: 5px;
+   display: flex;
+   justify-content: space-between;
+  }
+.navlinks a{
+   color: rgb(12, 9, 9);
+   padding: 30px;
+   text-decoration: none;
+   
+}
+.navlinks{
+   display: flex;
+   align-items: center;
+}
+.navlinks li{
+   list-style-type: none;
+ }
+
+.navbar a:hover {
+   background-color: rgb(41, 189, 66);
+ }
+
+.con-2{
+   width: 100%;
+    max-height: 15px;
+    text-align: center;
+}
+
+ .bod{
+ margin: 5%;
+ }
+
+ .con-3 {
+   display: flex;
+   align-items: center;
+   
+    }
+ 
+ img {
+   max-width: 100%;
+  }
+ 
+ .image {
+   flex-basis: 70%;
+   }
+ 
+ .text {
+   max-height: 20%;
+   margin: 10%;
+   width: 100%;
+   font-size: 20px;
+  }
+
+.history{
+   text-align: center;
+   font-size: 30px;
+
+}
+
+ .message{
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 50px;
+  border-radius: 25px;
+  border-width: 10px;
+  text-align: center;
+   font-size: 20px;
+ }   
+
+ hr{
+  color: #000;
+   }
+ 
+.con-4 {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+     
+img {
+ max-width: 100%;
+ max-height: 90%;
+}
+     
+.image {
+      flex-basis: 60%;
+}
+     
+.text-2 {
+      max-height: 20%;
+      margin: 5%;
+      width: 100%;
+      font-size: 20px;
+}
+
+footer{
+min-height: 100px;
+padding: 50px;
+margin: 0;
+background-color: rgb(48, 212, 130);
+border radius: 25% ;
+}
+
+footer p{
+   color: black;
+   text-align: center;
+    font-size: 20px;
+}
+
+.main-heading {
+   display: flex;
+   justify-content: center;
+
+}
+.heading {
+   background-color: #2ecc71;
+   color: white;
+   text-align: center;
+   width: fit-content;
+   padding:20px ;
+   border-radius: 4px;
+   box-shadow: 2px 2px 20px 23px #7fecad;
+ }
+
+ .row {
+   display: flex;
+ }
+  
+ .column {
+  flex: 30%;
+  padding: 10px;
+   
+ }
+
+ .con-5{
+    display:flex;
+    justify-content: center;
+
+ }
+ .facts{
+   border-radius: 10px; 
+   padding: 30px;
+   text-align: center;
+   width: 80%;
+   max-height: 30%;
+   background-color: rgb(201, 189, 173);
+   box-shadow: 2px 2px 20px 23px #dce4df;
+ }
+
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
